@@ -13,7 +13,7 @@ Hi, I'm **Muhamad Dendi Purwanto** — a passionate **Frontend Developer | Robot
 ---
 
 ## 🛠️ My Work
-Check out my [Repositories](https://github.com/yourusername?tab=repositories) for more projects showcasing my expertise in web development, IoT integration, and embedded systems!
+Check out my [Repositories](https://github.com/MDendiPurwanto?tab=repositories) for more projects showcasing my expertise in web development, IoT integration, and embedded systems!
 
 ---
 
@@ -33,8 +33,8 @@ I’m always open to collaboration, feedback, or just a chat about tech and desi
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDendiPurwanto&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDendiPurwanto&layout=compact&theme=radical)
 
 ---
 
