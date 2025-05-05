@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Muhamad Dendi Purwanto** — a passionate **Frontend Developer | Robotic Enthusiast | WordPress Enthusiast** based in Blukbuk, Dukuhwaruh, Jawa Tengah. A web developer with more than 2 years of work experience. Experienced in developing websites for brands from several industries, ranging from media, e-commerce, community websites, and client application needs. I have experience developing integrated websites with robot hardware or the Internet of Things, and I am also familiar with Embedded Systems.
+Hi, I'm **Muhamad Dendi Purwanto** — a passionate **Frontend Developer | Robotic Enthusiast | WordPress Enthusiast** based in Dukuhwaruh, Jawa Tengah. A web developer with more than 2 years of work experience. Experienced in developing websites for brands from several industries, ranging from media, e-commerce, community websites, and client application needs. I have experience developing integrated websites with robot hardware or the Internet of Things, and I am also familiar with Embedded Systems.
 
 ---
 
@@ -19,7 +19,6 @@ Check out my [Repositories](https://github.com/MDendiPurwanto?tab=repositories) 
 
 ## 💡 What I’m Working On
 - 🧑‍💻 Contributing to open-source projects in the JavaScript ecosystem.
-- 📚 Learning advanced animations with Framer Motion.
 - 🌱 Building a personal portfolio inspired by creative studios like [Deone Studio](https://deonestudio.onrender.com).
 
 ---
