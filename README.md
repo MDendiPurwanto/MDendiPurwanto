@@ -26,7 +26,7 @@ Check out my [Repositories](https://github.com/MDendiPurwanto?tab=repositories) 
 ## 📬 Get in Touch
 I’m always open to collaboration, feedback, or just a chat about tech and design! Reach out to me:
 
-- 📧 **Email**: dendipurwanto72@gmail.com)
+- 📧 **Email**: dendipurwanto72@gmail.com
 - 🌐 **Portfolio**: dendipur.web.id
 
 ---
